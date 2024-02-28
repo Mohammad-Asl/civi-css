@@ -1,0 +1,13 @@
+@import url('https://v1.fontapi.ir/css/Yekan');
+
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+    padding:10px 150px 0 150px;
+    font-family: Yekan, sans-serif;
+    font-style: normal;
+  }

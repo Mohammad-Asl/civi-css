@@ -1,0 +1,48 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-left{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    width: 60px;
+    height: 50px;
+}
+
+.nav-list{
+    display: flex;
+    list-style: none;
+    justify-content:space-evenly;
+    gap: 20px;
+    font-size:20px;
+    cursor: pointer;
+    color: gray;
+}
+
+.nav-right{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav-login{
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.nav-btn{
+    background-color: #368461;
+    color: white;
+    width: 120px;
+    padding: 15px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
