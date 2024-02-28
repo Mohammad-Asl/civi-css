@@ -6,6 +6,9 @@ const Header = () => {
           <h1 className="header-title">Got Talent?</h1>
           <h1>Meet Opportunity</h1>
           <p>Company reviews, Salaries, Interviews, Jobs</p>
+          <div>
+            <input></input>
+          </div>
         </div>
     </header>
   )
